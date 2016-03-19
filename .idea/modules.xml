@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/TestNGMvn.iml" filepath="$PROJECT_DIR$/TestNGMvn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestNG.iml" filepath="$PROJECT_DIR$/TestNG.iml" />
     </modules>
   </component>
 </project>
